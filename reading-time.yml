@@ -1,0 +1,13 @@
+name: Reading Time
+version: 1.0.0
+description: "Estimated reading time plugin for Morfy"
+author:
+  name: Sergey Romanenko
+  email: awilum@msn.com
+  url: http://morfy.org
+homepage: https://github.com/morfy-cms/morfy-plugin-reading-time
+bugs: https://github.com/morfy-cms/morfy-plugin-reading-time/issues
+license: MIT
+
+# Plugin settings
+enabled: true
