@@ -1,8 +1,8 @@
 # Reading Time
-Estimated reading time plugin for Morfy
+Estimated reading time plugin for Fansoro
 
 ## Installation
-See [this instruction](http://morfy.org/documentation/plugins/plugins-installation)
+See [this instruction](http://fansoro.org/documentation/plugins/plugins-installation)
 
 ## Usage
 
@@ -43,4 +43,4 @@ Enable alternative format that hides the minute label.
 ```
 
 ## License
-See [LICENSE](https://github.com/morfy-cms/morfy-plugin-reading-time/blob/master/LICENSE)
+See [LICENSE](https://github.com/fansoro/fansoro-plugin-reading-time/blob/master/LICENSE)
